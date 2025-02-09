@@ -13,7 +13,7 @@ This repository is a complete case study of a Facebook Ads campaign, including:
 
 ## 📌 Project Files  
 -Campaign-Plan.md<br>
--Creatives
--Ad-Setup-Screenshots
--Results.md
--Optimization.md
+-Creatives<Br>
+-Ad-Setup-Screenshots<br>
+-Results.md<Br>
+-Optimization.md<br>
